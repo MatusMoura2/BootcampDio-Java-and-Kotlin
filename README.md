@@ -26,6 +26,10 @@ Este repositório é destinado a exibir os desafios de projetos completos do Boo
 
 Se você tiver alguma dúvida sobre os desafios, o Bootcamp da DIO ou quiser discutir tecnologias relacionadas, fique à vontade para entrar em contato pelo e-mail: matus.moura333x2@gmail.com.
 
+# OBS:
+
+Todos os projetos poderão sefrer atualizações até o final do Bootcamp.
+
 # Agradecimentos
 
 Agradeço à Digital Innovation One por oferecer o Bootcamp e os desafios de projetos que me ajudaram a aprimorar minhas habilidades em programação.
