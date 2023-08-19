@@ -6,7 +6,8 @@ Este repositório contém os desafios de projetos que completei como parte do Bo
 
 - `desafio01/`: Desafio de projeto 01]
   - Descrição: Trata-se de um cadastro de alunos onde a minha maior preocupação é programar de maneira concisa utilizando a linguagem Kotlin.
-  - Linguagem: [Kotlin] ![image](https://github.com/MatusMoura2/BootcampDio-Java-and-Kotlin/assets/137653720/e4ea39cc-9ffd-439b-8ba8-cb6aaaa2be2a)
+  - Linguagem: [Kotlin]
+  - ![image](https://github.com/MatusMoura2/BootcampDio-Java-and-Kotlin/assets/137653720/e4ea39cc-9ffd-439b-8ba8-cb6aaaa2be2a)
 
 
 # Como Usar
